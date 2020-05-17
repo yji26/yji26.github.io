@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Post 1: What is Data Science?
+title: Blog Post 1 - What is Data Science?
 ---
 
 #### What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
