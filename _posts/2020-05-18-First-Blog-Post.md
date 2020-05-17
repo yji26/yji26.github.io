@@ -3,7 +3,7 @@ layout: post
 title: Blog Post 1 - What is Data Science?
 ---
 
-#### What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
+#### Prompt: What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
 
 For me, a data scientist starts out with a vast array of data, applies a variety of techniques to make sense of that data, and uses the data to tell a compelling story to a diverse audience which may include fellow data scientists, subject matter experts who have domain knowledge but not necessarily the same mathematical background, or laypersons getting to know the subject matter for the first time.
 
