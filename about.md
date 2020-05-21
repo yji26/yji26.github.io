@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graduate student in the Online Master of Statistics program at North Carolina State University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My day job is a data analyst in insurance. I became interested in the data field through taking an operations research class in college, as well as using sabermetics to win at fantasy baseball. I've been using my ample indoors time lately to catch up on movies released in the last few years.
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[yji26@ncsu.edu](mailto:yji26@ncsu.edu)
