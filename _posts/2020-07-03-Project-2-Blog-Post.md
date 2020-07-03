@@ -3,6 +3,10 @@ layout: post
 title: Project 2 - Blog Post and Reflection
 ---
 
+#### Introduction
+
+Project 2 features publicly-available data from [UCI](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity#) that is used to predict the popularity of web articles from the articles' measurable metrics. Linear and nonlinear regression models are fitted onto a training data set, and prediction accuracy on the testing data set is measured using RMSE.
+
 #### Prompts: What would you do differently? What was the most difficult part for you? What are your big take-aways from this project?
 
 I'll begin with the take-aways: this project for me really brought together the important steps of supervised learning. Through this experience I was able to appreciate the importance of doing data exploration prior to any modeling, in order to understand the characteristics of the data and their challenges. While a great deal of the underlying mathematics for machine learning can be packaged into various useful libraries, they are no substitute for domain knowledge and a thorough understand of the data itself.
